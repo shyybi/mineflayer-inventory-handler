@@ -5,13 +5,15 @@ Because the original one was shitty
 
 ## Exemple of project structure :
 
+```
 .
 ├── README.md
 ├── index.js
 ├── package-lock.json
 ├── package.json
 └── src
-    └── chest.js
+	└── chest.js
+```
 
 ## Function List:
 
